@@ -1,0 +1,51 @@
+{
+  "citations": [
+    {
+      "source": "AZ Big Media",
+      "title": "The future of real estate operations: AI and virtual assistants working together",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUXpKazdjZkdrY1kyYTh1S21uUWw4UjhseWJqSHBuNm5XQ2dmWnpRRVBSNWhvMGdENjBmanRIQk1lZlNLa2hoRjA3MG5iYVBqb0I2aXlPTGpfb1V3bXZVQXNFMXJHUE9rbGFfYkNWdUtqM2pWQnl6N3p6YjJ2LW00TzVBOVBqaHdJZVFaRnF2ZDJVM25PSlQ0N3RlclZfV3A5NHRJRjNpc3Uxdm4tbkVveWFlYkZDdw"
+    },
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RM1ZBZHlsbkR4dlJscXJLMkhFUzN1S280eXBsV1hCXzdCOTBraWZ1cUt1SUhqXzBUbThPSnBQdWpKTTI2aXdxQTdHbk9SM1d2NGluUXZ0cWktNzdWeS1xZHRQcVhDcWs5M2R4YXdUTGVvMThCRXc"
+    },
+    {
+      "source": "Built In",
+      "title": "31 Popular AI Assistants in 2026",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CaG1TMnpYWHp2dWl4bGRNYVFIQnJDWGZhQ0Vub0VhVXR4UXpndzh4QTlGM29fTGJpd0VOU2luVGV2ckFEMkJJcFlGeGhoS194SWJYNXdwdmtIVnJSUVIxelJOa0ZCZGs"
+    },
+    {
+      "source": "semai.ai",
+      "title": "How to Implement FAQPage and HowTo Schema for AEO",
+      "url": "https://semai.ai/blogs/how-to-implement-faqpage-and-howto-schema-for-aeo/"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed(title+kind+audience+generated_at) \u2192 hero=workflow-command-center, typeface=Cabinet Grotesk, components=[workflow-playbook-timeline, gapless-bento-grid, source-card-dossier], GSAP=[pinned-chapter-scroll, hover-physics]. AIDA Check: hero=Attention, proof+bento=Interest, workflow+media=Desire, CTA band=Action. Font Selection: Cabinet Grotesk from Fontshare. Hero Math Verification: clamp(44px\u201372px) with max-width 1120px \u2192 2\u20133 lines. Bento Density Verification: grid-auto-flow:dense present. GSAP Motion Selection: guarded ScrollTrigger + hover physics. Label Sweep & Button Check: black primary CTA, white secondary CTA, all CTAs point to app.getsupers.com.",
+  "generated_at": "2026-07-06T12:46:07.068901+00:00",
+  "headline": "Super for real estate agents managing follow-ups, listings, and scheduling",
+  "site_brief": {
+    "audience": "real estate agents managing follow-ups, listings, and scheduling",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work. Include a long-form field guide for this niche with concrete workflows, how-to steps, role-specific examples, objections, and a setup checklist.",
+    "kind": "niche_landing",
+    "queries": [
+      "real estate agents managing follow-ups, listings, and scheduling AI assistant",
+      "real estate agents managing follow-ups, listings, and scheduling personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-real-estate-agents-managing-follow-ups-listings",
+    "title": "Super for real estate agents managing follow-ups, listings, and scheduling"
+  },
+  "summary": "A conversion-focused, editorial-grade niche landing page showing how Super\u2019s personal AI agents operate real apps, reuse a computer-use cache, and reduce friction across follow-ups, listings, and scheduling for busy real estate agents. Includes a practical field guide, step-by-step workflow, risks, checklist, and compliant structured data."
+}
